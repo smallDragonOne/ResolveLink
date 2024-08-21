@@ -195,10 +195,3 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
-
-# Custom
-Logs/
-/src/MyCompanyName.AbpZeroTemplate.Web/Logs
-/aspnet/Mt.HkWeb.Web/App_Data/Configs/badWords.txt
-/src/Mt.Site.Web.Mvc/wwwroot/mtsc
-/src/Mt.Site.Web.Mvc/wwwroot/content/build
